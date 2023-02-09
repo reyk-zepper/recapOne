@@ -1,5 +1,6 @@
-@import "/components/global.css";
-@import "/components/header.css";
-@import "/components/navigation.css";
-@import "/components/card.css";
-@import "/components/button.css";
+@import "/css/global.css";
+@import "/css/header.css";
+@import "/css/card.css";
+@import "/css/button.css";
+@import "/css/navigation.css";
+@import "/css/profile.css";
